@@ -70,5 +70,4 @@ High customer churn impacts revenue, customer lifetime value, and business susta
 * Which U.S. states report higher churn levels?
 
 **PDF**
- [Download HR Dashboard Preview PDF]([https://github.com/harshitmistry/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashbord.pdf])
-
+ [Download HR Dashboard Preview PDF](https://github.com/harshitmistry/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashbord.pdf)
