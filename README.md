@@ -69,6 +69,8 @@ High customer churn impacts revenue, customer lifetime value, and business susta
 * How does churn vary by contract type and service experience?
 * Which U.S. states report higher churn levels?
 
-  **PDF**
+**PDF**
   https://github.com/harshitmistry/Analyzing-Customer-Churn/blob/main/Analyzing%20Customer%20Churn%20in%20Power%20BI%20-%20Final%20PDF%20WITH%20LINK.pdf
-  
+
+**Snapshot- Dashboard**
+https://github.com/harshitmistry/Analyzing-Customer-Churn/blob/main/Analyzing%20Customer%20Churn%20in%20Power%20BI%20-Final%20Dashboard.jpg
